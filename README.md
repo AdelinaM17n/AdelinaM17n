@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I guess
+I am Adelina, perhaps you know me by an other name. 
+I work on stuff from time to time, but mostly I just listen to music 24/7
 
-<!--
-**AdelinaM17n/AdelinaM17n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>Stats</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=AdelinaM17n&show_icons=true&theme=aura" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinaM17n&show_icons=true&theme=aura" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdelinaM17n&theme=nightowl&hide_border=true&background=0E001A&fire=D77128&sideLabels=7120C7&sideNums=CA3636&ring=8362A6)](https://git.io/streak-stats)
+</div>
+
+
