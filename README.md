@@ -6,7 +6,6 @@ I work on stuff from time to time, but mostly I just listen to music 24/7
   <h2>Stats</h2>
   
   <img src="https://github-readme-stats.vercel.app/api?username=AdelinaM17n&show_icons=true&theme=aura" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinaM17n&show_icons=true&theme=aura" />
 
 
